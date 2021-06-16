@@ -1,4 +1,4 @@
 # Olá, Mundo!
  Primeiro repositório
 
- Repósitorio criado para teste
+ Repositório criado para teste
