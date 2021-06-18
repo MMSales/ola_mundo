@@ -24,4 +24,22 @@ Lista de tarefas:
 - [ ] Terceira atividade
  
 Num | Nome | Nota 
+---|---|---
+1|Gustavo|7.5
+2 | Matheus | 9.0
 
+Acabou a **Tabela**
+
+Não entendo como funciona o comando `document.getElementById()` da linguagem JavaScript
+
+Olha esse mega programa em Python:
+```
+n1 = int(input('Digite o primeiro número: ')
+n2 = int(input('Digite o segundo número: ')
+s = n1 + n2
+print(f'O resultado da soma entre {n1} e {n2} é {s})
+
+
+```
+
+☣️  Residente Evil  ☣️
